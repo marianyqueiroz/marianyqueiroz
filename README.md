@@ -1,6 +1,6 @@
 ### Hello, World! 
 
-:sparkles: Me chamo Mariany, atuo com a plataforma servicenow há 2 anos, sempre que tenho um tempinho livre busco fazer projetos pessoais pra desbravar novas linguagens de programação. Sou desenvolvedora full stack, bacharel em serviço social, pós graduanda em Engenharia de Software e Tecnologias Aplicadas a Educação. O que me move é o viés do ativismo dos direitos humanos, em prol de uma sociedade mais equanime. :sparkles:
+Desenvolvedora ServiceNow Pleno, com habilidade em Java, JavaScript, e certificada como Administradora de Sistemas ServiceNow. Experiência na implementação de soluções integradas e sustentação nos módulos ITSM, CSM, HR e Service Portal, além de projetos envolvendo PPM e SPM. Atuo de forma estratégica para otimizar fluxos de trabalho e garantir a entrega de valor em grandes projetos. Como educadora tech, também contribuo para o desenvolvimento de equipes e promoção do letramento digital.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianyqueiroz&layout=compact)](https://github.com/marianyqueiroz/marianyqueiroz)
